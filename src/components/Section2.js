@@ -3,7 +3,7 @@ import React from "react";
 const Section2 = () => {
     return (
         <section id="two" className="spotlight style2 right">
-            <span className="image fit main"><img src="images/pic03.jpg" alt="" /></span>
+            <span className="image fit main"><img src="/assets/images/pic03.jpg" alt="" /></span>
             <div className="content">
                 <header>
                     <h2>Interdum amet non magna accumsan</h2>
